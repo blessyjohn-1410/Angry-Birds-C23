@@ -1,2 +1,2 @@
-# Angry-Birds-C23
-Create new class objects.
+# p5.play-boilerplate
+Boiler plate for p5.play
