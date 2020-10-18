@@ -17,7 +17,7 @@ function setup()
 
 function draw()
 {
-    background("lightblue");
+    background("pink");
     Engine.update(engine);
 
     console.log(box2.body.position.x);
